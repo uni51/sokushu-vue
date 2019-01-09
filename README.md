@@ -1,1 +1,1 @@
-# sokushu-vue
+# 速習Vue.js学習用リポジトリ
